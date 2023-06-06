@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Denis</h1>
 <h3 align="center">Programming student at Argentine National Technological University</h3>
+<center>
 <img align= "center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdiYmE0Nzk0MDFkMGJmNjQzODUwMTM4ZjE4MDYzZGI3YTFlNjJmYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/mQG644PY8O7rG/giphy.gif">
+</center>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denismembrive&label=Profile%20views&color=0e75b6&style=flat" alt="denismembrive" /> </p>
 
