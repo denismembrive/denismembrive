@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denis</h1>
-<h3 align="center">Programming student at Argentine National Technological University</h3>
+<h3 align="center">University Technician in Programming</h3>
 
 
 
